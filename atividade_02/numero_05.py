@@ -7,8 +7,9 @@ while True:
         break
     soma_idade+=idade
     contador+=1
-    print("idade do grupo",soma_idade)
+    
+    
     print("quantidade de pessoas",contador)
+    print("soma das idades",soma_idade)
     print("media das idades do grupo",soma_idade/contador)
 #fim
-
