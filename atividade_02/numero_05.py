@@ -10,5 +10,5 @@ while True:
     print("idade do grupo",soma_idade)
     print("quantidade de pessoas",contador)
     print("media das idades do grupo",soma_idade/contador)
-
+#fim
 
