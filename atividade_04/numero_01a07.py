@@ -18,7 +18,7 @@ primeiro a ser digitado representando de onde o loop começa, o STOP e obrigató
 terminará, o STEP seria o intervalo e o único que e optativo
 
 6)	O contador serve para ver quantas vezes o loop foi realizado, já o acumulador pode ser utilizado para juntar strings
-ou para realizar cálculos"""
+ou para realizar cálculos."""
 
 num_a,num_b=int(input("Digite um numero inteiro par: ")),int(input("Digite outro numero inteiro par: "))
 media=(num_a+num_b)/2
