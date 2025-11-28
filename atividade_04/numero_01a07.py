@@ -20,8 +20,23 @@ terminará, o STEP seria o intervalo e o único que e optativo
 6)	O contador serve para ver quantas vezes o loop foi realizado, já o acumulador pode ser utilizado para juntar strings
 ou para realizar cálculos"""
 
-num_a,num_b=int(input("Digite um numero inteiro: ")),int(input("Digite outro numero inteiro: "))
+num_a,num_b=int(input("Digite um numero inteiro par: ")),int(input("Digite outro numero inteiro par: "))
 media=(num_a+num_b)/2
-print('A soma dos numeros é',num_a+num_b,'a média dos numeros é',media)
+
+while True:
+    if num_a%2!=0:
+        print(int(input("Digite um numero inteiro par: ")))
+    elif num_a%2==0:
+        break
+
+while True:
+    if num_b%2!=0:
+        print(int(input("Digite um numero inteiro par: ")))
+    elif num_a % 2 == 0:
+        break
+
+
+if num_a%2==0 and num_b%2==0:
+    print('A soma dos numeros é',num_a+num_b,'a média dos numeros é',media)
 
 
