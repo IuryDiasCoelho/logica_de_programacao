@@ -28,10 +28,12 @@ frutas1=["acabate","banana","maça","pera","uva","morango","laranja"]
 frutas1.append("melao")
 print(frutas1)
 
-# adicionar com .insert
+# adicionar com .insert()
 frutas1=["acabate","banana","maça","pera","uva","morango","laranja"]
 frutas1.insert(0,"amora")
 print(frutas1)
+
+#adicionar com .extend([])  adiciona varios itens
 
 # remover itens da lista .remove
 frutas1=["acabate","banana","maça","pera","uva","morango","laranja"]
