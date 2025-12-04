@@ -21,3 +21,4 @@ Registrar meu aprendizado e evolução em lógica, além de compartilhar exercí
 - 💻 **Exercícios resolvidos**  
 - 📊 **Fluxogramas e algoritmos**  
 - 🧩 **Desafios práticos**
+.
