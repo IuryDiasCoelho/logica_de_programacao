@@ -30,8 +30,8 @@ Demonstrar a capacidade de **pensar logicamente**, resolver problemas e aplicar 
 
 ## 📸 Visualização da Prova
 <div align="center">
-  <img src="prova_logica/ft_prova_frente.jpg" width="300" />
-  <img src="prova_logica/ft_prova_verso.jpg" width="300" />
+  <img src="ft_prova_frente.jpg" width="300" />
+  <img src="ft_prova_verso.jpg" width="300" />
 </div>
 
 
